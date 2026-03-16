@@ -14,3 +14,19 @@ body{
     display: flex;
     justify-content: center;
 }
+
+.red{
+    background-color: #d95980;
+}
+
+.yellow{
+    background-color:#f99b45 ;
+}
+
+.blue{
+    background-color: #63aac0;
+}
+
+.purple{
+    background-color: purple;
+}
